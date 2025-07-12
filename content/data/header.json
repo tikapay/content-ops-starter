@@ -1,10 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/3df95231-c150-43a4-ab35-5a90cbb5bf59 (1).png",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"

@@ -4,14 +4,22 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: >-
+        Gagnez de l'argent facilement en invitant simplement vos amis. Gagnez
+        500Francs pour chaque invitation réussi.
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Francs CFA = Francs TIK '
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Après **MTN Mobile Money** et **Airtel money,** Nous assistons a la venue
+      d'un 3eme moyen de transfert d'argent local et international sans limite. 
+      **TIKAPAY**, une nouvelle structure vient de voir le jour au **Congo
+      Brazzaville**, utilisant sa propre monnaie virtuelle, comme le momopay. Le
+      **Francs(TIK)** est la monnaie la Nouvelle mise à la disposition de tous,
+      pour faciliter vos transactions (paiement, achats, dépôt, retrait, ). Le
+      **Francs(TIK)** est une similitude du **Franc Cfa** car les deux partagent
+      la même valeur financière. C'est a dire **1000Francs(TIK) = 1000Franc
+      CFA**.
     actions:
       - label: Get started
         altText: ''
@@ -32,12 +40,12 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/file_00000000a88861fd85e5bc2318efda43 (1).png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 'TIKA PAY '
       color: text-primary
       type: Badge
     elementId: ''
@@ -435,7 +443,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +473,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +533,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +563,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -646,8 +658,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image

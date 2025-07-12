@@ -5,9 +5,8 @@ sections:
   - type: GenericSection
     title:
       text: >-
-        Gagnez de l'argent facilement en utilisant invitant vos amis a utiliser
-        notre monnaie virtuelle, et en faisant la promotion de notre structure
-        TIKA PAY.
+        Gagnez de l'argent facilement en invitant vos amis et en faisant la
+        promotion de la structure TIKA PAY.
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here

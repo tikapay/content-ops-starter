@@ -4,9 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: >-
-        Gagnez de l'argent facilement en invitant vos amis et en faisant la
-        promotion de la structure TIKA PAY.
+      text: Gagnez de l'argent facilement en invitant vos amis.
       color: text-dark
       type: TitleBlock
     subtitle: 'Francs CFA = Francs TIK '

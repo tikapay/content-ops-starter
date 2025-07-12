@@ -11,9 +11,15 @@ sections:
       type: TitleBlock
     subtitle: 'Francs CFA = Francs TIK '
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Après **MTN Mobile Money** et **Airtel money,** Nous assistons a la venue
+      d'un 3eme moyen de transfert d'argent local et international sans limite. 
+      **TIKAPAY**, une nouvelle structure vient de voir le jour au **Congo
+      Brazzaville**, utilisant sa propre monnaie virtuelle, comme le momopay. Le
+      **Francs(TIK)** est la monnaie la Nouvelle mise à la disposition de tous,
+      pour faciliter vos transactions (paiement, achats, dépôt, retrait, ). Le
+      **Francs(TIK)** est une similitude du **Franc Cfa** car les deux partagent
+      la même valeur financière. C'est a dire **1000Francs(TIK) = 1000Franc
+      CFA**.
     actions:
       - label: Get started
         altText: ''

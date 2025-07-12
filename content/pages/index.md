@@ -4,7 +4,9 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Gagnez de l'argent facilement en invitant vos amis.
+      text: >-
+        Gagnez de l'argent facilement en invitant simplement vos amis. Gagnez
+        500Francs pour chaque invitation réussi.
       color: text-dark
       type: TitleBlock
     subtitle: 'Francs CFA = Francs TIK '

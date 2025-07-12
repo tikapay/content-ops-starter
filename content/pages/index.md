@@ -39,7 +39,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: 'TIKA PAY '
       color: text-primary
       type: Badge
     elementId: ''

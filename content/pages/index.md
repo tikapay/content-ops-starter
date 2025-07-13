@@ -21,7 +21,7 @@ sections:
       la même valeur financière. C'est a dire **1000Francs(TIK) = 1000Franc
       CFA**.
     actions:
-      - label: Get started
+      - label: INSCRIVEZ VOUS ICI
         altText: ''
         url: /
         showIcon: false

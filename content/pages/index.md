@@ -97,10 +97,7 @@ sections:
               borderRadius: x-large
       - title: REFERRAL TIKA
         subtitle: "Gagne 250Francs TIK pour chaque invitation. Atteint le montant de 5000Francs TIK, et fais ton retrait.\U0001F604"
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Le principe est simple, fais un dépôt de **1000Francs TIk** dans ton compte, tu reçois aussitôt un bonus de **500francs TIK** de plus.\n\na chaque que fois que tu invites un amis a faire aussi un dépôt dans son compte de **1000Francs Tik**, tu reçois aussitôt **250francs TIK** dans ton compte. Atteint les montant de **5000francs TIK**, fais ton retrait facilement, rapidement sans même te déplacer.\n\n**Alors tu attends quoi, viens travailler et utilise bien ton téléphone pour gagner de l'argent sur Internet avec TIKAPAY \U0001F44D**\n\n****![](/images/686d6cead63edbc6b611cf7d-1.jpeg)\n"
         image:
           url: /images/file_00000000a88861fd85e5bc2318efda43 (1).png
           altText: Featured icon three

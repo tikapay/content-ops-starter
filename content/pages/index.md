@@ -275,7 +275,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic sectdeo
+      text: MLM TIKA PAY BUSINESS
       color: text-dark
       styles:
         self:

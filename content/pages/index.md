@@ -728,7 +728,7 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Envoyer
+        label: 'mailto:tikapay007@gmail.com'
         showIcon: false
         icon: arrowRight
         iconPosition: right

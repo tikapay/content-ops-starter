@@ -224,7 +224,9 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: 'Gagnez de l''argent, en publiant des vidéos TIKA PAY sur TikTok, Facebook'
+      text: >-
+        Gagnez de l'argent, en publiant des vidéos TIKA PAY sur TikTok,
+        Facebook, in
       color: text-dark
       styles:
         self:

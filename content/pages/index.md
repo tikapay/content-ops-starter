@@ -30,6 +30,15 @@ sections:
         style: secondary
         elementId: ''
         type: Button
+      - type: Link
+        label: Send email
+        altText: Play
+        url: 'https://chat.whatsapp.com/FoWcJrxOPwrJO5p20SkdOl?mode=ac_t'
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
       - label: ''
         altText: ''
         url: /

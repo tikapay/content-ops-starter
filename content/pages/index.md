@@ -135,7 +135,7 @@ sections:
         style: secondary
         elementId: ''
     badge:
-      label: This is a badge
+      label: Plan business
       color: text-primary
       styles:
         self:

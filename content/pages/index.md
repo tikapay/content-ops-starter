@@ -102,7 +102,7 @@ sections:
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
         image:
-          url: /images/icon3.svg
+          url: /images/file_00000000a88861fd85e5bc2318efda43 (1).png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock

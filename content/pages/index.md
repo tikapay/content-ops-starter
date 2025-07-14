@@ -224,7 +224,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: 'Gagnez de l''argent, en publiant des vidéos TIKA PAY sur TikTok, Facebook'
       color: text-dark
       styles:
         self:

@@ -71,7 +71,7 @@ sections:
     items:
       - type: FeaturedItem
         title: MLM TIKA
-        subtitle: Numbers Done
+        subtitle: 'Invitez 3 amis, et devenez salarié chez nous.'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.

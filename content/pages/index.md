@@ -72,10 +72,7 @@ sections:
       - type: FeaturedItem
         title: MLM TIKA
         subtitle: 'Invitez 3 amis, et devenez salarié chez nous.'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Le principe est simple, faites une transaction d'au moins **1000Francs TIK**, et recevez un **bonus de 500Francs TIK**.  Invite au moins trois(3) amis a faire comme toi, et regarde le solde de ton (Compte) portefeuille augmenté chaque jour. Dès que tu  franchi un niveau ( **d'un niveau inférieur à un niveau supérieur**), alors il est possible pour toi de retirer ton argent, simplement en toute sécurité sans même te déplacer.\n\n**Alors, qu'es ce que tu attends ??  Viens travailler avec nous et recevoir un vrai salaire chaque fin du mois\U0001F44D**\n\n****![](/images/686da4ec1f30def2c885ee70.jpeg)\n"
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark

@@ -259,7 +259,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: TIKA PAY
       color: text-primary
       styles:
         self:

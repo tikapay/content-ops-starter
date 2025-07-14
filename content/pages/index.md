@@ -67,7 +67,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Investment for the better future
     items:
       - type: FeaturedItem
         title: MLM TIKA

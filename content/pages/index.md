@@ -96,7 +96,7 @@ sections:
             self:
               borderRadius: x-large
       - title: REFERRAL TIKA
-        subtitle: Faster
+        subtitle: "Gagne 250Francs TIK pour chaque invitation. Atteint le montant de 5000Francs TIK, et fais ton retrait.\U0001F604"
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.

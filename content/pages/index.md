@@ -116,7 +116,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: APPUIE ICI POUR T'INSCRIRE
         altText: ''
         url: /
         showIcon: false

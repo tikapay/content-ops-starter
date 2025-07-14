@@ -61,7 +61,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Comment gagner de l'argent chez TIKA PAY
       color: text-dark
       styles:
         self:

@@ -226,7 +226,7 @@ sections:
   - title:
       text: >-
         Gagnez de l'argent, en publiant des vidéos TIKA PAY sur TikTok,
-        Facebook, in
+        Facebook, Instagram, Twitter (Réseau sociaux).
       color: text-dark
       styles:
         self:

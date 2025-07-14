@@ -126,7 +126,7 @@ sections:
         elementId: ''
         type: Button
       - type: Link
-        label: Send email
+        label: ICI
         altText: Play
         url: 'https://chat.whatsapp.com/FoWcJrxOPwrJO5p20SkdOl?mode=ac_t'
         showIcon: true

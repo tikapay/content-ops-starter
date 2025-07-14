@@ -23,7 +23,7 @@ sections:
     actions:
       - label: INSCRIVEZ VOUS ------>>
         altText: ''
-        url: /
+        url: 'https://chat.whatsapp.com/FoWcJrxOPwrJO5p20SkdOl?mode=ac_t'
         showIcon: false
         icon: arrowRight
         iconPosition: right
